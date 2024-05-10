@@ -35,15 +35,11 @@ FRONT_CHECK.py
 
 FTLE_EDGE.m
 
-LICENSE
-
 NUMvslength.py
 
 PCA_SBUS.py
 
 PCA_example.py
-
-README.md
 
 SBUS_Shelf_ADD.pckl
 
