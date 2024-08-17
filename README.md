@@ -20,9 +20,26 @@ The MATLAB scripts call several external packages:
 List of Scripts:
 _____________________________________________________________________________________________________________________
 
-cname.sh:  
+**Finite Time Lyapunov Exponents**:    
+-    FTLE_compute.m 
+-    getvarANIM.m
+-    myFTLE.m
+-    myLCS.m
+-    plotFTLE.m
 
+**Lagrangian dyanmics and residence times**: 
+-    cname.sh
+-    Ftime.m
+-    FU2day.m
+-    Fto3d.m
+-    TRACK_FLOAT.m
+-    diag_float.m
+-    probmap.m
 
+**Canny edge detection**:
+-    FRONTS_daily.m
+-    myCanny.py
+-    pickle_to_mat_converter.py    
 
 
 
