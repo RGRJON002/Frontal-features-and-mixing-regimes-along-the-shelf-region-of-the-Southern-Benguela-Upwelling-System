@@ -15,6 +15,8 @@ The MATLAB scripts call several external packages:
 (3) Frederic Moisy (2024). EzyFit 2.44 (<https://www.mathworks.com/matlabcentral/fileexchange/10176-ezyfit-2-44>),
     MATLAB Central File Exchange. Retrieved August 17, 2024. 
 
+(4) CROCO_TOOLS: refer to Penven et al. (2008) or download from  <https://www.croco-ocean.org/download/>
+
 List of Scripts:
 _____________________________________________________________________________________________________________________
 
